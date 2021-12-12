@@ -120,6 +120,13 @@
             "type": "bep20",
             "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
         },
+            {
+            "title": "Friends Token",
+            "code": "FREND",
+            "decimal": 18,
+            "type": "bep20",
+            "address": "0x02d13caba665acdaff7bae5a97662f54ed5f1ca6"
+        },
         {
             "title": "sUSD",
             "code": "SUSD",
