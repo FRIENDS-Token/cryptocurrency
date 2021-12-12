@@ -8261,21 +8261,21 @@
           "funds": ["digital_finance_group", "lemniscap", "iosg_ventures", "ngc_ventures"]
       },
       {
-          "code": "BIFI",
-          "name": "Beefy.Finance",
+          "code": "FREND",
+          "name": "Friends Token",
           "categories": ["yield_aggregators"],
           "active": true,
           "links": {
-              "website": "https://beefy.finance/",
+              "website": "https://www.friendstoken.com/",
               "whitepaper": "",
               "guide": "",
-              "twitter": "https://twitter.com/beefyfinance",
-              "github": "https://github.com/beefyfinance",
+              "twitter": "",
+              "github": "https://github.com/FRIENDS-Token",
               "reddit": "",
-              "telegram": "https://t.me/beefyfinance"
+              "telegram": "https://t.me/FRIENDS_Token"
           },
           "rating": "",
-          "id": "bep20|0xca3f508b8e4dd382ee878a314789373d80a5190a",
+          "id": "bep20|0x02d13caba665acdaff7bae5a97662f54ed5f1ca6",
           "funds": []
       },
       {
